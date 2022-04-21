@@ -3,7 +3,7 @@
 - 👀 I’m a software enthousiast
 - 🌱 I’ve worked on many programming languages
 - 💞️ I’m looking to collaborate on any interesting open source project
-- 📫 How to reach me : check me on linkedIn on the same
+- 📫 How to reach me : check me on linkedIn as gauthier wakay
 
 <!---
 gauthierwakay/gauthierwakay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
